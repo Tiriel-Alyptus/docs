@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/80892763/164226092-95ce6a2e-08fc-46ee-ae80-3c702c26e9ce.png)
+
 ### Prerequisites
 -   Ubuntu 20.04 or Ubuntu 20.10
 -   1024MB or above Ram.
@@ -117,5 +119,5 @@ INFO    -  Cleaning site directory
 [I 210201 01:03:15 handlers:59] Start watching changes
 [I 210201 01:03:19 handlers:132] Browser Connected: http://0.0.0.0:8000
 
-![image](https://user-images.githubusercontent.com/80892763/164226005-336a5dca-bd87-4f95-a885-6f5f10f306c5.png)
+
 
