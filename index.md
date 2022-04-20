@@ -1,12 +1,11 @@
 ### Prerequisites
-
 -   Ubuntu 20.04 or Ubuntu 20.10
 -   1024MB or above Ram.
 -   10GB Disk Space.
 -   1 vCPU or above CPU.
 -   root privileges
 
-## Step 1 - Se connecter au serveur SSH
+## Step 1 - connect to SSH if usued
 
 Use the following command to log in to your server on SSH:
 ```
